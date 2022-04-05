@@ -1,7 +1,7 @@
 
 spring:
   application:
-    name: greeting-service
+    name: greeting-serve
 
 greeting-service:
   greeting: "Olá"
