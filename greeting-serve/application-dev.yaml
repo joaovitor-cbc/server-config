@@ -4,8 +4,8 @@ spring:
     name: greeting-serve
 
 greeting-service:
-  greeting: "Olá"
-  default-value: "Mundo"
+  greeting: "Pronto"
+  default-value: "Mondo"
   
 management:
   endpoints:
